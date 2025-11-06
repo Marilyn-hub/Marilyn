@@ -1,12 +1,12 @@
 # 📊 Data Scientist
 
 <div align="center">
-  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
-  <h3>📊 Data Scientist | 🤖 ML Engineer | 📈 Analytics Expert</h3>
+  <h1>👋 ¡Hola! Soy [Flavia]</h1>
+  <h3>📊 Data Analytics | 🤖 ML | 📈 Data Science | Developer </h3>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Turning+Data+into+Insights;Always+questioning+the+data!)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C619D4&center=true&width=435&lines=Data+Analyst+;Machine+Learning;Data+science;Developer)
   
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdsa2d5MGhkMzdrMjU0N2xhYXo4cWt2YTJ5dzYwMDdma280YmJybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif" width="200">
 </div>
 
 ## 🎯 About Me
