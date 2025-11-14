@@ -94,45 +94,6 @@ Modelo de ML para predecir la probabilidad de abandono de clientes en telecomuni
 
 [📊 Dashboard](dashboard-link) | [💻 Código](github-link) | [📋 Report](report-link)
 
-### 🏠 [Real Estate Price Prediction](link-proyecto)
-Sistema de predicción de precios inmobiliarios usando datos de múltiples fuentes.
-
-**Tech Stack:** Python, TensorFlow, Apache Spark, PostgreSQL  
-**Data Sources:** MLS listings, Census data, Economic indicators  
-
-**Features:**
-- 🗺️ Geospatial analysis con folium
-- 📊 Time series forecasting
-- 🌐 Web scraping automatizado
-- ⚡ Pipeline de datos en tiempo real
-
-**Model Performance:**
-- 📉 **RMSE:** $15,420
-- 📈 **R²:** 0.91
-- 🎯 **MAPE:** 8.3%
-
-[🔗 Web App](webapp-link) | [💻 Código](github-link)
-
-### 🩺 [Medical Diagnosis Assistant](link-proyecto)
-Sistema de apoyo diagnóstico usando Computer Vision y NLP.
-
-**Tech Stack:** PyTorch, OpenCV, BERT, FastAPI, Docker  
-**Data:** Medical images + clinical notes (anonymized)  
-
-**Capabilities:**
-- 🖼️ Medical image classification
-- 📝 Clinical text analysis
-- 🤖 Symptom-based recommendations
-- 📊 Confidence scoring
-
-**Metrics:**
-- 🎯 **Sensitivity:** 92.5%
-- 🔍 **Specificity:** 89.1%
-- ⚡ **Inference time:** <2 seconds
-
-[📱 Demo](demo-link) | [📄 Paper](paper-link) | [💻 Código](github-link)
-
-## 📈 Data Science Methodology
 
 ```python
 class DataScienceWorkflow:
