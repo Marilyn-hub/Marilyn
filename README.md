@@ -13,12 +13,11 @@
 
 Data Scientist apasionada por extraer insights valiosos de los datos y construir modelos de machine learning que resuelvan problemas del mundo real. Me especializo en análisis predictivo, visualización de datos y automatización de procesos analíticos.
 
-- 🔬 Trabajando en **[Proyecto de Data Science actual]**
-- 🧠 Investigando **[Área de ML/AI que estás explorando]**
-- 🤝 Colaborando en **[Tipo de proyectos de datos]**
+- 🔬 Trabajando en **Proyecto de Analisis de datos demográficos públicos**
+- 🧠 Investigando y explorando **ML e AI**
+- 🤝 Colaborando en **Práctica profesionalizante**
 - 💬 Pregúntame sobre **Python, Machine Learning, Statistics, Data**
 - 📫 Contacto: **[tu-email@ejemplo.com]**
-- ⚡ Fun fact: **[Algo interesante sobre tu experiencia con datos]**
 
 ## 🛠️ Data Science Toolkit
 
