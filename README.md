@@ -17,7 +17,7 @@ Data Scientist apasionada por extraer insights valiosos de los datos y construir
 - 🧠 Investigando y explorando **ML e AI**
 - 🤝 Colaborando en **Práctica profesionalizante**
 - 💬 Pregúntame sobre **Python, Machine Learning, Statistics, Data**
-- 📫 Contacto: **[tu-email@ejemplo.com]**
+- 📫 Contacto: **[marilynfsb@gmail.com]**
 
 ## 🛠️ Data Science Toolkit
 
