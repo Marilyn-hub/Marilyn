@@ -57,63 +57,62 @@ SQL
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=material-palenight"/>
-</div>
-
 ## 🚀 Featured Data Science Projects
 
-### 🧠 [Customer Churn Prediction](link-proyecto)
-Modelo de ML para predecir la probabilidad de abandono de clientes en telecomunicaciones.
+### 🧠 [Cardiovascular Disease Prediction](https://github.com/Marilyn-hub/Proyecto-data)
+Sistema de apoyo clínico para predecir enfermedad cardíaca y niveles de colesterol, aplicando el proceso completo de KDD sobre el dataset UCI Heart Disease.
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, Pandas, Plotly  
-**Methodology:** Feature Engineering, Cross-validation, Hyperparameter tuning  
+**Tech Stack:** Python, Scikit-learn, Matplotlib, Seaborn, Pandas  
+**Methodology:** Exploratory Data Analysis, Preprocesamiento, Modelado de Regresión y Clasificación, Evaluación con métricas múltiples  
 
 **Results:**
-- 📊 **Accuracy:** 94.2%
-- 🎯 **Precision:** 91.8% 
-- 📈 **ROC-AUC:** 0.96
-- 💰 **Business Impact:** Reducción del 23% en churn rate
+- 📊 Mejor modelo de regresión seleccionado para colesterol
+- 🎯 Clasificador optimizado para detección de enfermedad cardíaca 
+- 📈 Comparación exhaustiva de métricas (Accuracy, Precision, Recall, F1, ROC-AUC)
+- 💰 **Business Impact:** Apoyo a la toma de decisiones médicas con predicciones confiables
 
 **Techniques:** 
 - 🔍 Exploratory Data Analysis
 - 🛠️ Feature Engineering & Selection
-- ⚖️ Class Imbalance Handling (SMOTE)
-- 🎛️ Hyperparameter Optimization (Optuna)
+- ⚖️ Comparación de modelos de regresión y clasificación
+- 🎛️ Selección del mejor modelo con justificación
 
-[📊 Dashboard](dashboard-link) | [💻 Código](github-link) | [📋 Report](report-link)
+### 🙂 [Attention State Detection (FER2013)](https://github.com/Marilyn-hub/proyecto-data2)
+Proyecto de deep learning para clasificar estados de atención a partir de expresiones faciales, enfrentando desbalance severo de clases y etiquetas ambiguas.
 
+**Tech Stack:** Python, TensorFlow/Keras, NumPy, Pandas  
+**Methodology:** Data-centric approach, CNN training, Multi-Task Learning, Re-ingeniería de clases  
 
-```python
-class DataScienceWorkflow:
-    def __init__(self):
-        self.steps = [
-            "🎯 Problem Definition",
-            "📊 Data Collection & Cleaning", 
-            "🔍 Exploratory Data Analysis",
-            "🛠️ Feature Engineering",
-            "🤖 Model Development",
-            "✅ Model Validation",
-            "🚀 Deployment & Monitoring"
-        ]
-    
-    def iterate(self):
-        return "Fail fast, learn faster! 📈"
-    
-    def best_practices(self):
-        return {
-            "reproducibility": "Version control everything",
-            "documentation": "Code should tell a story",
-            "validation": "Trust but verify your data",
-            "ethics": "AI for good, always"
-        }
-```
+**Results:**
+- 📊 Modelos más estables frente al desbalance de clases
+- 🎯 Mejoras en confiabilidad gracias a redefinición de etiquetas 
+- 📈 Evaluación comparativa de arquitecturas y formulaciones
+- 💰 **Business Impact:** Caso de estudio reproducible para proyectos reales de visión computacional
 
-  **"Data is the new oil, but insights are the refined fuel."**
+**Techniques:** 
+- 🔍 Dataset Analysis & Label Transformation
+- 🛠️ Convolutional Neural Networks (CNNs)
+- ⚖️ Multi-Task Learning como regularización
+- 🎛️ Re-definición de clases para mejorar estabilidad
+
+  ### 🤖 [Chatbot AI con DeepSeek](https://github.com/Marilyn-hub/proyecto-data3)
+Chatbot inteligente con interfaz moderna desarrollado en Streamlit, integrado con el modelo DeepSeek R1 y funcionalidades avanzadas de gestión de contexto.
+
+**Tech Stack:** Python, Streamlit, Ollama, DeepSeek R1  
+**Methodology:** Clean Code, Modular Architecture, UX/UI Design, Session State Management  
+
+**Results:**
+- 📊 Interfaz profesional con tema oscuro/claro
+- 🎯 Gestión eficiente de contexto conversacional
+- 📈 Exportación y persistencia de conversaciones
+- 💰 **Business Impact:** Aplicación web robusta y escalable con experiencia de usuario optimizada
+
+**Techniques:** 
+- 🔍 Diseño responsivo y accesible
+- 🛠️ Modularización de funciones y componente
+- ⚖️ Manejo de estado con Streamlit Session State
+- 🎛️ Optimización de prompts e integración con LLM
+
   
   📊 **Turning data into decisions, one model at a time!** 🚀
   
